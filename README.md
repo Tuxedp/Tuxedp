@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tuxedp
 - 👀 I’m interested in: Chemistry, Physics, Computer Science and cool coding stuff
-- 🌱 I’m currently learning: Digital experimentation
+- 🌱 I’m currently learning: Molecular Dynamics with LAMMPS
 - 💞️ I’m looking to collaborate on: Nothing rn
 - 📫 How to reach me: email me at lemtes6@gmail.com
 - 😄 Pronouns: He/Him
